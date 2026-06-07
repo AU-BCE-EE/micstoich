@@ -12,7 +12,7 @@ The micstoich package calculates stoichiometry of microbial reactions using the 
 It supports aerobic respiration, anaerobic respiration (nitrate, sulfate, CO2, and other acceptors), and fermentation.
 The user specifies the electron donor, acceptor, and optionally a synthesis fraction `fs` to include biomass production.
 
-For a web app interface to the package, see https://biotransformers.shinyapps.io/micstoich/.
+For a web app interface to the package, see https://sashahafner-micstoich.share.connect.posit.cloud/ (alternate: https://biotransformers.shinyapps.io/micstoich/).
 
 # Installation
 
